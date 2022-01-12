@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Battle of Power!</title>
+    <link rel="icon" type="image/png" href="/favicon.ico">
+    <script type="text/javascript" src="js/socketcluster.js"></script>
+    <script src="js/sc-codec-min-bin.js"></script>
+    <script src="js/phaser.min.js"></script>
+    <script src="js/rbush.min.js"></script>
+    <script src="js/SAT.min.js"></script>
+    <script src="js/channel-grid.js"></script>
+    <script src="js/game.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div>
+    <div id="center-container" class="game-content">
+        <div id="pre-game">
+            <h1>PlentyHell - Battle Royale</h1>
+            <div>
+                <input type="text" class="effect20" maxlength="15" id="nickname"
+                       placeholder="Enter your name..."/>
+            </div>
+            <div id="pre-game-in">
+                <h3>Pick a character</h3>
+                <div class="cards-wrapper">
+                    <div class="card" data-heroId="1">
+                        <img src="img/sprites/heros/1/avatar.png" alt="Avatar">
+                        <div class="container">
+                            <h4>Maria</h4>
+                            <div class="description">
+                                Low weight and high speed, our beloved HR damages enemies with her long
+                                speech
+                                and not so good ideas.
+                            </div>
+                            <div class="abilities">
+                                <div class="plus">+ High Speed</div>
+                                <div class="plus">+ Nice to everybody</div>
+                                <div class="minus">- Low damage</div>
+                                <div class="minus">- Pregnant</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card" data-heroId="2">
+                        <img src="img/sprites/heros/2/avatar.png" alt="Avatar">
+                        <div class="container">
+                            <h4>Costi</h4>
+                            <div class="description">
+                                Combining intelligence with the martial arts learned on the Oltenia's streets, he's Targu Jiu's secret weapon.
+                            </div>
+                            <div class="abilities">
+                                <div class="plus">+ Knowledgeable</div>
+                                <div class="plus">+ Has a sword</div>
+                                <div class="minus">- High chance of being targeted</div>
+                                <div class="minus">- Oltean</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card" data-heroId="3">
+                        <img src="img/sprites/heros/3/avatar.png" alt="Avatar">
+                        <div class="container">
+                            <h4>Claudiu</h4>
+                            <div class="description">
+                                With his funny but annoying behaviour, he distracts everybody on the battlefield.
+                                Extra bonus points against women over 30.
+                            </div>
+                            <div class="abilities">
+                                <div class="plus">+ Big biceps</div>
+                                <div class="plus">+ From Arad</div>
+                                <div class="minus">- Talks too much</div>
+                                <div class="minus">- Leaves to Austria to take care of old ladies</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card" data-heroId="4">
+                        <img src="img/sprites/heros/4/avatar2.JPEG" alt="Avatar">
+                        <div class="container">
+                            <h4>Traian</h4>
+                            <div class="description">
+                                With his high endurance and damage, Traian is a real tank on the battlefield. Might get distracted by Pleskavitza.
+                            </div>
+                            <div class="abilities">
+                                <div class="plus">+ High damage and HP</div>
+                                <div class="plus">+ Funny</div>
+                                <div class="minus">- Low speed</div>
+                                <div class="minus">- Fat</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card boss locked" data-heroId="5">
+                        <img src="img/sprites/heros/5/avatar.png" alt="Avatar">
+                        <div class="container">
+                            <h4>Romanian Boss: Atila</h4>
+                            <div class="description">
+                                The beloved romanian boss lures the enemies with nice words, but spanks their buttcheeks
+                                with the slap of justice.
+                            </div>
+                            <div class="abilities">
+                                <div class="plus">+ Good guy</div>
+                                <div class="plus">+ Can throw you out of battlefield</div>
+                                <div class="minus">- Attacks from Germany</div>
+                                <div class="minus">- Not the big boss</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card boss locked" data-heroId="6">
+                        <img src="img/sprites/heros/2/avatar.png" alt="Avatar">
+                        <div class="container">
+                            <h4>Final Boss: Jan</h4>
+                            <div class="description">
+                                Jan is the creator of all. He can change any rule in his advantage.
+                            </div>
+                            <div class="abilities">
+                                <div class="plus">+ Ruler of all</div>
+                                <div class="plus">+ No rules apply to him</div>
+                                <div class="minus">- He made me remove this</div>
+                                <div class="minus">- He made me remove this</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="game-content">
+        </div>
+    </div>
+</div>
+
+
+</html>

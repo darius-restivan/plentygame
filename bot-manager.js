@@ -52,7 +52,7 @@ BotManager.prototype.addBot = function (options) {
     lastAttackDelay: -5,
     subtype: 'bot',
     health: config.HEROS_OPTIONS[0].baseHealth,
-    name: options.name || 'bot-' + Math.round(Math.random() * 10000),
+    name: options.name || 'bug-' + Math.round(Math.random() * 10000),
     score: options.score || 0,
     speed: options.speed == null ? this.botMoveSpeed : options.speed,
     mass: options.mass || this.botMass,

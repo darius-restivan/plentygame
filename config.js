@@ -111,7 +111,7 @@ module.exports = {
     },
       // Maria
     {
-      baseHealth: 100,
+      baseHealth: 70,
       diameter: 60,
       mass: 20,
       mana: 50,
@@ -126,12 +126,12 @@ module.exports = {
           type: 'range',
           damage: 10,
           shotSpeed: 30,
-          shotRange: 1000,
-          radius: 50 // radius from hit
+          shotRange: 800,
+          radius: 100 // radius from hit
         },
         {
           type: 'melee',
-          damage: 40,
+          damage: 35,
           radius: 200 // radius from hit
         }
       ]
@@ -139,16 +139,16 @@ module.exports = {
     },
       // Costi
     {
-      baseHealth: 80,
+      baseHealth: 90,
       radius: 5, // radius from hit
       mana: 5,
-      speed: 20,
+      speed: 15,
       skills: [
         {
-          type:'melee',
-          damage: 10,
-          shotSpeed: 15,
-          shotRange: 200,
+          type:'range',
+          damage: 8,
+          shotSpeed: 20,
+          shotRange: 500,
           radius: 100
         },
         {
@@ -160,19 +160,19 @@ module.exports = {
         },
         {
           type:'melee',
-          damage: 50,
+          damage: 40,
           radius: 200 // radius from hit
         }
       ],
-      diameter: 100,
-      mass: 20
-        
+      diameter: 70,
+      mass: 25
     },
       // Claudiu
     {
       baseHealth: 100,
       radius: 5, // radius from hit
       mana: 5,
+      speed: 10,
       skills: [
         {
           type:'range',
@@ -189,25 +189,23 @@ module.exports = {
           radius: 100
         },
         {
-          type:'melee' // FIXME: dash
-        },
-        {
           type:'melee',
-          damage: 70,
+          damage: 50,
           radius: 200 // radius from hit
         }
       ],
-      diameter: 100,
-      mass: 20
+      diameter: 90,
+      mass: 30
     },
       // Traian
     {
-      baseHealth: 100,
+      baseHealth: 150,
       radius: 5, // radius from hit
       mana: 5,
+      speed: 3,
       skills: [
         {
-          type:'range',
+          type:'melee',
           damage: 10,
           shotSpeed: 15,
           shotRange: 500,
@@ -215,13 +213,10 @@ module.exports = {
         },
         {
           type:'range',
-          damage: 35,
-          shotSpeed: 25,
+          damage: 40,
+          shotSpeed: 10,
           shotRange: 500,
           radius: 100
-        },
-        {
-          type:'melee' // FIXME: dash
         },
         {
           type:'melee',
@@ -229,7 +224,7 @@ module.exports = {
           radius: 200 // radius from hit
         }
       ],
-      diameter: 100,
+      diameter: 130,
       mass: 20
     },
       // Atila
@@ -237,6 +232,7 @@ module.exports = {
       baseHealth: 100,
       radius: 5, // radius from hit
       mana: 5,
+      speed: 2,
       skills: [
         {
           type:'range',
@@ -253,22 +249,20 @@ module.exports = {
           radius: 100
         },
         {
-          type:'melee' // FIXME: dash
-        },
-        {
           type:'melee',
-          damage: 70,
+          damage: 90,
           radius: 200 // radius from hit
         }
       ],
-      diameter: 100,
-      mass: 20
+      diameter: 160,
+      mass: 40
     },
       // Jan
     {
-      baseHealth: 100,
+      baseHealth: 200,
       radius: 5, // radius from hit
       mana: 5,
+      speed: 0.5,
       skills: [
         {
           type:'range',
@@ -285,15 +279,12 @@ module.exports = {
           radius: 100
         },
         {
-          type:'melee' // FIXME: dash
-        },
-        {
           type:'melee',
           damage: 70,
           radius: 200 // radius from hit
         }
       ],
-      diameter: 100,
+      diameter: 200,
       mass: 20
     }
   ]

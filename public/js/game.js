@@ -28,6 +28,7 @@ window.onload = function () {
     var HEROS_OPTIONS = [
     // Bot
     {
+      id: 0,
       baseHealth: 100,
       mana: 5,
       radius: 10, // radius from hit
@@ -37,6 +38,7 @@ window.onload = function () {
     },
     // Maria
     {
+      id: 1,
       baseHealth: 100,
       diameter: 100,
       mass: 20,
@@ -68,6 +70,7 @@ window.onload = function () {
     },
     // Costi
     {
+      id: 2,
       baseHealth: 100,
       radius: 5, // radius from hit
       mana: 5,
@@ -101,6 +104,7 @@ window.onload = function () {
     },
     // Claudiu
     {
+      id: 3,
       baseHealth: 100,
       radius: 5, // radius from hit
       mana: 5,
@@ -133,6 +137,7 @@ window.onload = function () {
     },
     // Traian
     {
+      id: 4,
       baseHealth: 100,
       radius: 5, // radius from hit
       mana: 5,
@@ -165,6 +170,7 @@ window.onload = function () {
     },
     // Atila
     {
+      id: 5,
       baseHealth: 100,
       radius: 5, // radius from hit
       mana: 5,
@@ -197,6 +203,7 @@ window.onload = function () {
     },
     // Jan
     {
+      id: 6,
       baseHealth: 100,
       radius: 5, // radius from hit
       mana: 5,
@@ -380,6 +387,8 @@ window.onload = function () {
       var sprites = ["left","right","up", "down"];
       for (var i = 0; i < HEROS_OPTIONS.length; i++) {
         currentHero = HEROS_OPTIONS[i];
+
+        game.load.image('avatar-' + currentHero.id , 'img/sprites/heros/' + currentHero.id + '/avatar-hud.png');
 
         for (var j = 0; j < sprites.length; j++) {
           for (var k = 1; k < 5; k++) {
@@ -718,7 +727,7 @@ window.onload = function () {
       // FIXME: Put objects according with screen size
       hud = game.add.sprite(0, h-200, 'hud');
       hud.fixedToCamera=true;
-      avatar = game.add.sprite(60, h-180, 'avatar');
+      avatar = game.add.sprite(60, h-180, 'avatar-' + playerHeroId);
       avatar.fixedToCamera=true;
       skill0 = game.add.sprite(200, h-70, 'skill1');
       skill0.fixedToCamera=true;

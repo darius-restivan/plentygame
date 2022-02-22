@@ -316,7 +316,7 @@ CellController.prototype.applyPlayerOps = function (playerIds, players, coins, h
             if (playerOp.s1 && player.lastAttackDelay === 0 && player.score >= 10) {
                 player.delay = 5;
                 player.currentSkill = "1";
-                player.score = player.score - 10;
+                player.score = player.score - 2;
                 var hit = self.hitManager.addHit(player);
                 if (hit) {
                     hits[hit.id] = hit;
@@ -325,11 +325,12 @@ CellController.prototype.applyPlayerOps = function (playerIds, players, coins, h
                 }
             }
 
-            //skill3
+            //skill2
             if (playerOp.s2 && player.lastAttackDelay === 0 && player.score >= 20) {
                 player.delay = 5;
                 player.currentSkill = "2";
-                player.score = player.score - 50;
+                player.score = player.score - 10;
+                player.walkerStep = 10;
                 var hit = self.hitManager.addHit(player);
                 if (hit) {
                     hits[hit.id] = hit;
@@ -350,7 +351,7 @@ CellController.prototype.applyPlayerOps = function (playerIds, players, coins, h
             }
 
             if (movedHorizontally && movedVertically) {
-                player.delay = 5;
+                player.delay = 0;
                 movementVector.x *= self.diagonalSpeedFactor;
                 movementVector.y *= self.diagonalSpeedFactor;
             }

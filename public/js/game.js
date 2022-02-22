@@ -90,9 +90,6 @@ window.onload = function () {
           radius: 100
         },
         {
-          type:'melee' // FIXME: dash
-        },
-        {
           type:'melee',
           damage: 70,
           radius: 200 // radius from hit
@@ -122,9 +119,6 @@ window.onload = function () {
           shotSpeed: 25,
           shotRange: 500,
           radius: 100
-        },
-        {
-          type:'melee' // FIXME: dash
         },
         {
           type:'melee',
@@ -756,7 +750,7 @@ window.onload = function () {
       var playerName = document.getElementById('nickname').value;
 
       if (playerName === "") {
-       playerName = 'salbaticu-' + Math.round(Math.random() * 10000);
+       playerName = 'plenty-dev-' + Math.round(Math.random() * 100);
       }
 
       function joinWorld() {

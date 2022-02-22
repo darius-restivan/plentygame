@@ -2,6 +2,19 @@ html {
     height: 100%;
 }
 
+.beta {
+    display: flex;
+    width: 100%;
+    background: yellow;
+    font-weight: bold;
+    justify-content: space-evenly;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    color: black;
+    padding: 3px 0;
+    margin-bottom: 30px;
+}
+
 @font-face {
     font-family: "Mochi";
     src: url("/css/fonts/MochiyPopPOne-Regular.ttf");

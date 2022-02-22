@@ -104,7 +104,7 @@ module.exports = {
       baseHealth: 100,
       mana: 5,
       radius: 10, // radius from hit
-      diameter: 50,
+      diameter: 40,
       mass: 20,
       speedMultiplier: 1,
       skills: [],
@@ -115,7 +115,7 @@ module.exports = {
       diameter: 60,
       mass: 20,
       mana: 50,
-      speed: 30,
+      speed: 25,
       skills: [
         {
           type: 'melee',
@@ -125,9 +125,9 @@ module.exports = {
         {
           type: 'range',
           damage: 10,
-          shotSpeed: 30,
-          shotRange: 800,
-          radius: 100 // radius from hit
+          shotSpeed: 20,
+          shotRange: 1000,
+          radius: 80 // radius from hit
         },
         {
           type: 'melee',
@@ -154,17 +154,17 @@ module.exports = {
         {
           type:'range',
           damage: 25,
-          shotSpeed: 5,
+          shotSpeed: 20,
           shotRange: 400,
           radius: 100
         },
         {
           type:'melee',
-          damage: 40,
+          damage: 30,
           radius: 200 // radius from hit
         }
       ],
-      diameter: 70,
+      diameter: 90,
       mass: 25
     },
       // Claudiu

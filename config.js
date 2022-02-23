@@ -205,7 +205,7 @@ module.exports = {
       speed: 3,
       skills: [
         {
-          type:'melee',
+          type:'range',
           damage: 10,
           shotSpeed: 15,
           shotRange: 500,

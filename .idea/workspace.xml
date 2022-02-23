@@ -3,163 +3,240 @@
   <component name="ChangeListManager">
     <list default="true" id="931b3373-4067-48b7-87d1-cc91f4f662f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell.js" beforeDir="false" afterPath="$PROJECT_DIR$/cell.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/1/avatar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/left2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/left3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/left4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/right2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/right4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/up1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/up2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/0/up4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/left2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/left3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/left4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/right2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/right4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/up1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/up2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/1/up4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/left2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/left3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/left4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/right2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/right4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/up1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/up2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/hits/2/up4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/left2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/left3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/left4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/right2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/right4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/shots/1/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/up1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/up2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/up4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/avatar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashdown1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/dashdown1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashdown2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashdown3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashdown4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashleft1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashleft2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashleft3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashleft4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashright1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/dashright1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashright2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashright3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashright4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashup1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashup2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashup3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/dashup4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/left2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/left2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/left3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/left4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/right2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/right2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/right4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/up1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/up2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/up2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0/up4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/left2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/left3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/left4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/right2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/right4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/up1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/up2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1/up4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/dash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/left2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/left3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/left4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/right2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/right4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/up1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/up2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2/up4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/left2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/left3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/left3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/left4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/2/left4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/right2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/right4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/up1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/up2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/2/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/1/shots/1/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/1/shots/1/right.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/avatar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/down1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/down2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/down2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/left2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/left2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/right2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/right2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/up2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/up2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/0/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/1/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/hits/2/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/left1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/left1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/left2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/left2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/left4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/left4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/right1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/right1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/right2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/right2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/right3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/right3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/right4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/right4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/shots/1/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/shots/1/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/shots/1/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/shots/1/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/shots/1/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/up1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/up1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/up2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/up2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/up3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/up3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/3/up4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/3/up4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/avatar2.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/4/down1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/0/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/1/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/hits/2/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/0/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/0/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/0/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/0/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/0/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/1/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/1/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/1/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/1/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/shots/1/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/4/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/5/avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/shots/0/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/5/shots/0/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/shots/0/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/shots/0/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/shots/0/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/5/up4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sprites/heros/6/down1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/sprites/heros/6/up4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,23 +266,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img/sprites/heros/5/shots/0" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/img/sprites/heros/2/hits/2" />
-      <recent name="$PROJECT_DIR$/public/img/sprites/heros/2/hits/1" />
-      <recent name="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0" />
-      <recent name="$PROJECT_DIR$/public/img/sprites/heros/2/hits" />
-      <recent name="$PROJECT_DIR$/public/img/sprites/heros/2" />
+      <recent name="$PROJECT_DIR$/public/img/sprites/heros/5/shots/0" />
+      <recent name="$PROJECT_DIR$/public/img/sprites/heros/5/hits/2" />
+      <recent name="$PROJECT_DIR$/public/img/sprites/heros/5/hits/1" />
+      <recent name="$PROJECT_DIR$/public/img/sprites/heros/5/hits/0" />
+      <recent name="$PROJECT_DIR$/public/img/sprites/heros/5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img/sprites/heros/6" />
       <recent name="$PROJECT_DIR$/public/img/sprites/heros/2/hits/0" />
       <recent name="$PROJECT_DIR$/public/img/sprites/heros/1" />
       <recent name="$PROJECT_DIR$/public/css/fonts" />
       <recent name="$PROJECT_DIR$/public/img/sprites/heros/5" />
-      <recent name="$PROJECT_DIR$/public/img/sprites/heros/4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -222,7 +299,8 @@
       <workItem from="1642412195016" duration="5000" />
       <workItem from="1645455823212" duration="6352000" />
       <workItem from="1645552023063" duration="2038000" />
-      <workItem from="1645554072798" duration="3732000" />
+      <workItem from="1645554072798" duration="4104000" />
+      <workItem from="1645638826536" duration="5467000" />
     </task>
     <servers />
   </component>

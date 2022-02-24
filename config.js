@@ -244,7 +244,7 @@ module.exports = {
         {
           type:'range',
           damage: 35,
-          shotSpeed: 25,
+          shotSpeed: 15,
           shotRange: 500,
           radius: 100
         },

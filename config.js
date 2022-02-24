@@ -131,7 +131,7 @@ module.exports = {
         },
         {
           type: 'melee',
-          damage: 35,
+          damage: 0,
           radius: 200 // radius from hit
         }
       ]
@@ -146,21 +146,21 @@ module.exports = {
       skills: [
         {
           type:'range',
-          damage: 8,
+          damage: 5,
           shotSpeed: 20,
           shotRange: 500,
           radius: 100
         },
         {
           type:'range',
-          damage: 25,
+          damage: 10,
           shotSpeed: 20,
           shotRange: 400,
           radius: 100
         },
         {
           type:'melee',
-          damage: 30,
+          damage: 0,
           radius: 200 // radius from hit
         }
       ],
@@ -176,21 +176,21 @@ module.exports = {
       skills: [
         {
           type:'range',
-          damage: 10,
+          damage: 8,
           shotSpeed: 15,
           shotRange: 500,
           radius: 50
         },
         {
           type:'range',
-          damage: 35,
+          damage: 12,
           shotSpeed: 25,
           shotRange: 500,
           radius: 100
         },
         {
           type:'melee',
-          damage: 50,
+          damage: 0,
           radius: 200 // radius from hit
         }
       ],
@@ -213,19 +213,19 @@ module.exports = {
         },
         {
           type:'range',
-          damage: 40,
+          damage: 20,
           shotSpeed: 10,
           shotRange: 500,
           radius: 100
         },
         {
           type:'melee',
-          damage: 70,
+          damage: 0,
           radius: 200 // radius from hit
         }
       ],
       diameter: 130,
-      mass: 20
+      mass: 50
     },
       // Atila
     {
@@ -250,7 +250,7 @@ module.exports = {
         },
         {
           type:'melee',
-          damage: 90,
+          damage: 0,
           radius: 200 // radius from hit
         }
       ],
@@ -266,21 +266,21 @@ module.exports = {
       skills: [
         {
           type:'range',
-          damage: 10,
+          damage: 20,
           shotSpeed: 15,
           shotRange: 500,
           radius: 50
         },
         {
           type:'range',
-          damage: 35,
+          damage: 55,
           shotSpeed: 25,
           shotRange: 500,
           radius: 100
         },
         {
           type:'melee',
-          damage: 70,
+          damage: 40,
           radius: 200 // radius from hit
         }
       ],
